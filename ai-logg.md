@@ -30,3 +30,4 @@ Labels (tekst på alt)
 # Brukerstøtte
  Jeg ba Claude om tilbakemelding på veiledningen min og om forslag til hvordan jeg kan gjøre teksten mer brukervennlig.Hva bør angis i teksten, for eksempel i stedet for brukerlogonavnet, brukernavn.
   Også AI ble brukt til korektur og oversettelse. 
+  
