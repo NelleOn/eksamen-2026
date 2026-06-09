@@ -11,3 +11,9 @@ main {
     font-family: 'Arial', sans-serif;
     text-align: center;
 }
+
+body {
+    background-color: #f4f4f4; 
+    margin: 0; 
+}
+

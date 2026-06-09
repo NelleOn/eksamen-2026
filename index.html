@@ -1,43 +1,53 @@
 <!DOCTYPE html> 
-<html lang="en">
-<head>
+<html lang="no"> <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Kontorutleie</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<header>
-    <h1>Kontorutleie</h1>
-</header>
-<main>
-    <p></p>Find et kontor som passer for deg!</p>
-    <br>
-    Vi hjelper deg med å finne det kontorlokalet som passer best for dine behov. 
-    Lag et nettverk tilpasset dine personlige behov, utform din egen DPS og få IT-hjelp fra oss
-    <br>
-    <h2>Hvorfor velge oss ?</h2>
-    <l>
-        <li>Vi har et stort utvalg av kontorlokaler i hele Norge</li>
-        <li>Et designet privat nettverk </li>
-        <li>IT-hjelp når du trenger det</li>
-    </l>
-    <h2>Sted du skal leie kontor</h2>
-    <l>
-        <button>Oslo</button>
-        <button>Bergen</button>
-        <button>Trondheim</button>
-        <button>Stavanger</button>
-    </l>
-    <h3>Hvor mange personer skal bruke kontoret?</h3>
-    <l>
-        <button>1-5</button>
-        <button>6-10</button>   
-        <h4>Kontakt oss for mer informasjon</h4>
-    </l>
-    <button>Kontakt oss</button>
-    <
-        <button>Log in</button>
-    </l>
-</main>
-<body>
-</html>
+<body> <header>
+        <h1>Kontorutleie</h1>
+    </header>
+
+    <main>
+        <p>Finn et kontor som passer for deg!</p>
+        <br>
+        <p> Vi hjelper deg med å finne det kontorlokalet som passer best for dine behov. 
+            Lag et nettverk tilpasset dine personlige behov, utform din egen DPS og få IT-hjelp fra oss.
+        </p>
+        <br>
+
+        <h2>Hvorfor velge oss?</h2>
+        <ul> <li>Vi har et stort utvalg av kontorlokaler i hele Norge</li>
+            <li>Et designet privat nettverk</li>
+            <li>IT-hjelp når du trenger det</li>
+        </ul>
+
+        <h2>Sted du skal leie kontor</h2>
+        <div class="knapp-gruppe"> <button>Oslo</button>
+            <button>Bergen</button>
+            <button>Trondheim</button>
+            <button>Stavanger</button>
+        </div>
+
+        <h3>Hvor mange personer skal bruke kontoret?</h3>
+        <div class="knapp-gruppe">
+            <button>1-5</button>
+            <button>6-10</button>   
+            <h4>Kontakt oss for mer informasjon</h4>
+        </div>
+
+        <button>Kontakt oss</button>
+        <br><br>
+
+        <section class="login-boks"> 
+            <h2>Logg inn</h2>
+            <form action="kunder.html" method="GET"> 
+                <input type="text" placeholder="Brukernavn" required>
+                <input type="password" placeholder="Passord" required>
+                <button type="submit">Logg inn</button>
+            </form>
+        </section>   
+    </main>
+
+</body> </html>
