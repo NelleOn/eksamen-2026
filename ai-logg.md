@@ -27,10 +27,5 @@ Labels (tekst på alt)
 ☐ Subnet under hver bedrift (192.168.10.0/24 osv)
 ☐ Navn på enhetene (Router, Switch, Bedrift A osv)
 
-Tilkoblinger
-
-☐ Piler/linjer mellom alle enheter
-☐ Trunk-linje mellom switch og router (merk den "Trunk")
-☐ Access-linjer fra switch til hver bedrift
-
-
+# Brukerstøtte
+ Jeg ba Claude om tilbakemelding på veiledningen min og om forslag til hvordan jeg kan gjøre teksten mer brukervennlig
