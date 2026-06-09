@@ -11,3 +11,5 @@ Du vil bli bedt om å oppgi opplysninger som fornavn, mellomnavn og brukernavn, 
 ![alt text](image-3.png)
 
 Klikk på «Neste», hvor du blir bedt om å oppgi et nytt passord to ganger. Under dette har du muligheten til å velge «Brukeren må endre passord ved neste pålogging» hvis du ønsker at brukeren skal velge sitt eget passord.For å gjøre passordet ditt sikrere bør du bruke minst 8 tegn, inkludert både store og små bokstaver, og det bør ikke inneholde navnet ditt eller personopplysninger. Klikk på «Neste», så har du opprettet en ny bruker i Active Directory!
+
+# Sette opp tilgang på mappe og filnivå
